@@ -1,0 +1,9 @@
+# Requirements for this Jupyter Environment
+jupyter
+python-redmine
+pandas
+numpy
+scipy
+matplotlib
+bokeh
+Scrapy
