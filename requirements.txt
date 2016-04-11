@@ -1,6 +1,12 @@
 # Requirements for this Jupyter Environment
+# Jupyter and Jupyter Notebooks
 jupyter
+jupyter_kernel_gateway
+
+# Python Libraries to speak with
 python-redmine
+
+# Python Data and virtualisation Libraries
 pandas
 numpy
 scipy
