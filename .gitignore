@@ -3,8 +3,8 @@
 .ipynb_checkpoints/
 bin/
 include/
-lib/
-lib64/
+lib
+lib64
 share/
 pip-selfcheck.json
 pyvenv.cfg
