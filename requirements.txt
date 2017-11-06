@@ -2,6 +2,7 @@
 # Jupyter and Jupyter Notebooks
 jupyter
 jupyter_kernel_gateway
+RISE
 
 # Python Libraries to speak with
 python-redmine
